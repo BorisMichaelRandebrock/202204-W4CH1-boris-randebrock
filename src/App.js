@@ -5,3 +5,4 @@ function App() {
 }
 
 export default App;
+//%PUBLIC_URL%/favicon.ico

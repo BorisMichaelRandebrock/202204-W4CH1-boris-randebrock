@@ -83,14 +83,18 @@ Dar al componente Gentleman la función de conmutar un señor.
 Gentleman
 
 Muestra el nombre recibido en un heading
+
 Muestra una fotografía recibida con un texto alternativo basado en el nombre recibido
 Muestra la inicial del nombre recibido
 Muestra la información recibida de profesión, status y twitter
 Si está seleccionada, muestra un icono y gira la foto
+
 Cuando el usuario hace clic en el componente, llama a la acción recibida
+
 Info
 
 Renderiza un párrafo con un texto que empieza por un valor recibido y continúa con un texto fijo
+
 Button
 
 Renderiza un botón con un texto recibido dentro
