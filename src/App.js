@@ -1,7 +1,12 @@
-import Info from "./Info/Info";
-
+import Gentleman from "./Gentleman/Gentleman";
 function App() {
-  return <Info number={5} />;
+  return (
+    <div className="container">
+      <main className="main">
+        <Gentleman />
+      </main>
+    </div>
+  );
 }
 
 export default App;
