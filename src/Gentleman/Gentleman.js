@@ -1,4 +1,12 @@
-const Gentleman = () => {
+const Gentleman = (
+  picture,
+  alternativeText,
+  firstLetter,
+  name,
+  profession,
+  status,
+  twitter
+) => {
   return (
     <li className="gentleman">
       <div className="gentleman__avatar-container">
